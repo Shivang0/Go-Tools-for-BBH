@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "Hope you have installed Go already in your system ;)  ."
 
 
 echo "Installing Anew "
