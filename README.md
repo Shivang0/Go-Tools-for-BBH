@@ -33,12 +33,21 @@ To run the project, you will need to install the following programs:
 - [Github-Search](https://github.com/gwen001/github-search)
 ..Going to add more soon , hope you guys can contribute too if I miss anything .
 
+## How to ?
+
+Commands :-
+
+git clone https://github.com/Shivang0/Go-Tools-for-BBH/
+chmod 777 installer.sh
+./installer.sh
+
 ## What after installing all these tools ?
 So , you can visit the tools and read the Documentation to use it at it's Maximum capacity .
 If you are intrested in oneline-scripts after installing all these in your system you can visit [OfJAAH](https://github.com/OfJAAH/KingOfBugBountyTips) .
 The team has made a great use of all these tools .
 
-I would like if you guys can add the tools you like to list so that a begineer does not need to go to every repo to install such great tools 
+I would like if you guys can add the tools you like to list so that a begineer does not need to go to every repo to install such great tools .
+
 
 # Project
 
