@@ -35,7 +35,7 @@ To run the project, you will need to install the following programs:
 
 ## What after installing all these tools ?
 So , you can visit the tools and read the Documentation to use it at it's Maximum capacity .
-If you are intrested in oneline-scripts after installing all these in your stsem youcan visit [OfJAAH](https://github.com/OfJAAH/KingOfBugBountyTips) .
+If you are intrested in oneline-scripts after installing all these in your system you can visit [OfJAAH](https://github.com/OfJAAH/KingOfBugBountyTips) .
 The team has made a great use of all these tools .
 
 I would like if you guys can add the tools you like to list so that a begineer does not need to go to every repo to install such great tools 
