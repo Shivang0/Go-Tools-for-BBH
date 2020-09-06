@@ -31,6 +31,7 @@ To run the project, you will need to install the following programs:
 - [Httpx](https://github.com/projectdiscovery/httpx)
 - [Chaos-Client](https://github.com/projectdiscovery/chaos-client)
 - [Github-Search](https://github.com/gwen001/github-search)
+- [AMASS](https://github.com/OWASP/Amass)
 ..Going to add more soon , hope you guys can contribute too if I miss anything .
 
 ## How to ?
