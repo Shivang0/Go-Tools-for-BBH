@@ -12,6 +12,9 @@ echo "Install Hakrawler"
   go get -v github.com/hakluke/hakrawler
 echo "Installing Github-search"
    git clone https://github.com/gwen001/github-search
+eco "Installing Amass"
+   go get -u github.com/OWASP/Amass
+   echo "Although Amass is installed set the config.ini file to use it to maximum extent ;) ."
 echo "Installing GoSpider"
   go get -v -u github.com/jaeles-project/gospider
 echo "Installing Seclists"
