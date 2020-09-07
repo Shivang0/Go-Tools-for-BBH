@@ -17,8 +17,7 @@ and many more who has given back to community and shared tips/tricks/tools for b
 
 ## Scripts and wordlist that We are Going to install
 
-To run the project, you will need to install the following programs:
-
+After Running the script all the following tools will be installed into the system .
 - [Anew](https://github.com/tomnomnom/anew)
 - [AssetFinder](https://github.com/tomnomnom)
 - [Meg](https://github.com/tomnomnom/meg)
