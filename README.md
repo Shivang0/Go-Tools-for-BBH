@@ -32,6 +32,7 @@ After Running the script all the following tools will be installed into the syst
 - [Github-Search](https://github.com/gwen001/github-search)
 - [AMASS](https://github.com/OWASP/Amass)
 - [GF](https://github.com/tomnomnom/gf)
+- [WayBackUrls](https://github.com/tomnomnom/waybackurls)
 ..Going to add more soon , hope you guys can contribute too if I miss anything .
 
 ## How to ?
