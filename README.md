@@ -31,6 +31,7 @@ After Running the script all the following tools will be installed into the syst
 - [Chaos-Client](https://github.com/projectdiscovery/chaos-client)
 - [Github-Search](https://github.com/gwen001/github-search)
 - [AMASS](https://github.com/OWASP/Amass)
+- [GF](https://github.com/tomnomnom/gf)
 ..Going to add more soon , hope you guys can contribute too if I miss anything .
 
 ## How to ?
