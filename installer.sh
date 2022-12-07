@@ -3,24 +3,24 @@ echo "Hope you have installed Go already in your system ;)  ."
 
 
 echo "Installing Anew "
-  go get -v -u github.com/tomnomnom/anew
+  go get install github.com/tomnomnom/anew@latest
 echo "Installing qsreplace"
-  go get -v -u github.com/tomnomnom/qsreplace
+  go get install github.com/tomnomnom/qsreplace@latest
 echo "Installing SubFinder"
   GO111MODULE=auto go get -u -v github.com/projectdiscovery/subfinder/cmd/subfinder
 echo "Install Hakrawler"
-  go get -v github.com/hakluke/hakrawler
+  go install github.com/hakluke/hakrawler@latest
 echo "Installing Github-search"
    git clone https://github.com/gwen001/github-search
 echo "Installing WaybackUrls"
-   go get github.com/tomnomnom/waybackurls
+   go install github.com/tomnomnom/waybackurls@latest
 echo "Installing Gf"
-   go get -u github.com/tomnomnom/gf
+   go install github.com/tomnomnom/gf@latest
 echo "Installing Amass"
-   go get -u github.com/OWASP/Amass
+   go install github.com/OWASP/Amass@latest
    echo "Although Amass is installed set the config.ini file to use it to maximum extent ;) ."
 echo "Installing GoSpider"
-  go get -v -u github.com/jaeles-project/gospider
+  go install github.com/jaeles-project/gospider@latest
 echo "Installing Seclists"
   git clone https://github.com/danielmiessler/SecLists.git
 echo "Installing Nuclei"
